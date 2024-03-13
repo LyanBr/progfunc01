@@ -1,4 +1,4 @@
-
+package exercicios;
 record CidadeRecord(String nome) {}
 class Cidade {
     private String nome;
